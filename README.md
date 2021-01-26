@@ -9,5 +9,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugokishi&show_icons=true&locale=en&layout=compact" alt="hugokishi" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hugokishi&show_icons=true&locale=en" alt="hugokishi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hugokishi&show_icons=true&locale=en" alt="hugokishi" /></p>
 
