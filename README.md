@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hugo Kishi</h1>
 <h3 align="center">A backend developer from Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugokishi&label=Profile%20views&color=0e75b6&style=flat" alt="hugokishi" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugokishi&label=Profile%20views&color=0e75b6&style=flat" alt="hugokishi" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugokishi&label=Profile%20views&color=0e75b6&style=flat" alt="hugokishi" /> </p>
-<p align="left"> <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos" alt="hugokishi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hugokishi&label=Profile%20views&color=0e75b6&style=flat" alt="hugokishi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hugokishi&label=Profile%20views&color=0e75b6&style=flat" alt="hugokishi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hugokishi&label=Profile%20views&color=0e75b6&style=flat" alt="hugokishi" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos" alt="hugokishi" /> </p>
 
 
 - 📫 How to reach me **hugopacheco370@gmail.com**
